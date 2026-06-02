@@ -1,0 +1,27 @@
+﻿Template-Type: ReDIF-Series 1.0
+Name:  LIDAM Discussion Papers LFIN
+Provider-Name: Université catholique de Louvain, Louvain Finance (LFIN)
+Provider-Institution: RePEc:edi:lfuclbe
+Provider-Email:severine.devisscher@uclouvain.be
+Provider-Fax: +32 10474338
+Provider-Postal: Voie du Roman Pays 34, 1348 Louvain-la-Neuve (Belgium)
+Provider-Homepage: https://uclouvain.be/en/research-institutes/lidam/lfin
+Maintainer-Name: Séverine De Visscher
+Maintainer-Email: severine.devisscher@uclouvain.be
+Maintainer-Fax: +32 10474338
+Type: ReDIF-Paper
+Handle: RePEc:ajf:louvlf
+
+Template-Type: ReDIF-Series 1.0
+Name:  LIDAM Reprints LFIN
+Provider-Name: Université catholique de Louvain, Louvain Finance (LFIN)
+Provider-Institution: RePEc:edi:lfuclbe
+Provider-Email:severine.devisscher@uclouvain.be
+Provider-Fax: +32 10474338
+Provider-Postal: Voie du Roman Pays 34, 1348 Louvain-la-Neuve (Belgium)
+Provider-Homepage: https://uclouvain.be/en/research-institutes/lidam/lfin
+Maintainer-Name: Séverine De Visscher
+Maintainer-Email: severine.devisscher@uclouvain.be
+Maintainer-Fax: +32 10474338
+Type: ReDIF-Paper
+Handle: RePEc:ajf:louvlr
