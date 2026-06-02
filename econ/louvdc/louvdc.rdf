@@ -1,0 +1,219 @@
+﻿Template-Type: ReDIF-Software 1.0
+Author-Name: Matías COVARRUBIAS
+Author-Workplace-Name: Pontificia Universidad Católica de Chile
+Author-Name: Jeanne LAFORTUNE
+Author-Workplace-Name: Pontificia Universidad Católica de Chile and EH-Clio Lab UC
+Author-Name: José TESSADA
+Author-Workplace-Name: Pontificia Universidad Católica de Chile and EH-Clio Lab UC
+Title: Code and data files for “Who Comes and Why ? Determinants of Immigrants Skill Level in the Early XXth Century US”
+Abstract: Code and data to replicate the results of the article.
+Keywords: Immigration selection; High-skilled migration; Mass migration era
+Series: UNIVERSITE CATHOLIQUE DE LOUVAIN, Institut de Recherches Economiques et Sociales (IRES)
+Number: 2015001
+Creation-Date: 2015-03-01
+Programming)Language: stata
+File-URL: http://sites.uclouvain.be/econ/JODE/81-1/base.dta
+File-Format: text/plain
+File-URL: http://sites.uclouvain.be/econ/JODE/81-1/base_ethny.dta
+File-Format: text/plain
+File-URL: http://sites.uclouvain.be/econ/JODE/81-1/base_ipums.dta
+File-Format: text/plain
+File-URL: http://sites.uclouvain.be/econ/JODE/81-1/whocomes_tab.do
+File-Format: text/plain
+File-URL: http://sites.uclouvain.be/econ/JODE/81-1/whocomes.do
+File-Format: text/plain
+Article-Handle: RePEc:ctl:louvde:v:81:y:2015:i:1:p:115-155
+
+Paper-Handle: 
+Handle: RePEc:ctl:louvdc:2015001
+
+Template-Type: ReDIF-Software 1.0
+Author-Name: Rigas OIKONOMOU
+Author-Workplace-Name: UNIVERSITE CATHOLIQUE DE LOUVAIN, Institut de Recherches Economiques et Sociales (IRES)
+Author-Name: Christian SIEGEL
+Author-Workplace-Name: University of Exeter
+Title: Codes and data files for “Capital Taxes, Labor Taxes and the Household”
+Abstract: Code and data to replicate the results of the article.
+Classification-JEL: D13, D52, E21, E62, H31
+Keywords: Life cycles models; Incomplete financial markets; Tax reform; Intrahousehold allocation
+Series: UNIVERSITE CATHOLIQUE DE LOUVAIN, Institut de Recherches Economiques et Sociales (IRES)
+Number: 2015002
+Creation-Date: 2015-03-01
+Programming)Language: fortran
+File-URL: https://sites.uclouvain.be/econ/JODE/81-3/datafiles.zip
+File-Format: application/postscript/zipped
+Article-Handle: RePEc:ctl:louvde:v:81:y:2015:i:3:p:217-260
+Paper-Handle: 
+Handle: RePEc:ctl:louvdc:2015002
+
+Template-Type: ReDIF-Software 1.0
+Author-Name: Ho-Po Crystal WONG
+Author-Workplace-Name: National Tsing Hua University
+Title: Codes and data files for “Credible Commitments and Marriage: When the Homemaker Gets her Share at Divorce”
+Abstract: Code and data to replicate the results of the article.
+Classification-JEL: D13, J12, J2
+Keywords: Credible Commitments, Divorce law, Divorce, Homemakers, Marriage, Property rights, Unilateral divorce
+Series: UNIVERSITE CATHOLIQUE DE LOUVAIN, Institut de Recherches Economiques et Sociales (IRES)
+Number: 2016001
+Creation-Date: 2016-09-01
+Programming)Language: stata
+File-URL: https://sites.uclouvain.be/econ/JODE/82-3/Data-Homemaking-provision.7z
+File-Format: application/postscript/zipped
+Article-Handle: RePEc:ctl:louvde:v:82:y:2016:i:3:p:241-279
+Paper-Handle: 
+Handle: RePEc:ctl:louvdc:2016001
+
+Template-Type: ReDIF-Software 1.0
+Author-Name: Michael E. MARTELL
+Author-Workplace-Name: Bard College
+Author-Name: Leanne RONCOLATO
+Author-Workplace-Name: Franklin and Marshall College
+Title: Codes and data files for “The Homosexual Lifestyle: Time Use in Same-sex Households”
+Abstract: Codes and data to replicate the results of the paper
+Keywords: Household production, Sexual Orientation, Family Structure
+Series: UNIVERSITE CATHOLIQUE DE LOUVAIN, Institut de Recherches Economiques et Sociales (IRES)
+Number: 2016002
+Creation-Date: 2016-12-01
+Programming)Language: stata
+File-URL: http://sites.uclouvain.be/econ/JODE/82-4/Replication-Files.zip
+File-Format: application/postscript/zipped
+Article-Handle: RePEc:ctl:louvde:v:82:y:2016:i:4:p:365-398
+Paper-Handle: 
+Handle: RePEc:ctl:louvdc:2016002
+
+Template-Type: ReDIF-Software 1.0
+Author-Name: Pierre-André CHIAPPORI
+Author-Workplace-Name: Columbia University
+Author-Name: Sonia OREFFICE
+Author-Workplace-Name: University of Surrey and IZA
+Author-Name: Climent QUINTANA-DOMEQUE
+Author-Workplace-Name: University of Oxford and IZA
+Title: Codes and data files for “Black-White Marital Matching: Race Anthropometrics, and Socioeconomics”
+Abstract: Codes and data to replicate the results of the paper
+Classification-JEL: D1, J1
+Keywords: Inter-racial couples, Marriage market, BMI, Wages, Education, “Social status exchange” hypothesis
+Series: UNIVERSITE CATHOLIQUE DE LOUVAIN, Institut de Recherches Economiques et Sociales (IRES)
+Number: 2016003
+Creation-Date: 2016-12-01
+Programming)Language: stata
+File-URL: https://sites.uclouvain.be/econ/JODE/82-4/2016-0011.zip
+File-Format: application/postscript/zipped
+Article-Handle: RePEc:ctl:louvde:v:82:y:2016:i:4:p:399-421
+Paper-Handle: 
+Handle: RePEc:ctl:louvdc:2016003
+
+Template-Type: ReDIF-Software 1.0
+Author-Name: Holger STICHNOTH
+Author-Workplace-Name: ZEW Mannheim
+Author-Name: Mustafa YETER
+Author-Workplace-Name: ZEW Mannheim
+Title: Codes and data files for “Cultural Influences on the Fertility Behavior of First- and Second-Generation Immigrants”
+Abstract: Codes and data to replicate the results of the paper
+Classification-JEL: J13, J15, J16
+Keywords: Immigration, Fertility, Assimilation, Germany
+Series: UNIVERSITE CATHOLIQUE DE LOUVAIN, Institut de Recherches Economiques et Sociales (IRES)
+Number: 2016004
+Creation-Date: 2016-12-01
+Programming)Language: stata
+File-URL: https://sites.uclouvain.be/econ/JODE/82-3/Cultural-Influence.zip
+File-Format: application/postscript/zipped
+Article-Handle: RePEc:ctl:louvde:v:82:y:2016:i:3:p:281-314
+Paper-Handle: 
+Handle: RePEc:ctl:louvdc:2016004
+
+Template-Type: ReDIF-Software 1.0
+Author-Name: Gauthier TSHISWAKA-KASHALALA
+Author-Workplace-Name: UNIVERSITY OF PRAETORIA, Department of Economics
+Author-Name: Steven F. KOCH
+Author-Workplace-Name: UNIVERSITY OF PRAETORIA, Department of Economics
+Title: Codes and data files for “Contraceptive Use and Time to First Birth ”
+Abstract: Codes and data to replicate the results of the paper
+Classification-JEL: C41, J13
+Keywords: First hit time; Childbirth hazard; Contraception effectiveness;
+Series: UNIVERSITE CATHOLIQUE DE LOUVAIN, Institut de Recherches Economiques et Sociales (IRES)
+Number: 2017001
+Creation-Date: 2017-06-01
+Programming)Language: stata
+File-URL: https://sites.uclouvain.be/econ/JODE/83-2/83-2-1.zip
+File-Format: application/postscript/zipped
+Article-Handle: 
+Paper-Handle: RePEc:ctl:louvde:v:83:y:2017:i:2:p:149-175
+Handle: RePEc:ctl:louvdc:2017001
+
+Template-Type: ReDIF-Software 1.0
+Author-Name: Hippolyte d’ALBIS
+Author-Workplace-Name: Paris School of Economics - CNRS
+Author-Name: Paula E. Gobbi
+Author-Workplace-Name: UNIVERSITE CATHOLIQUE DE LOUVAIN, Institut de Recherches Economiques et Sociales (IRES)
+Author-Name: Angela GREULICH
+Author-Workplace-Name: Université de Paris 1 Panthéon-Sorbonne and Ined
+Title: Codes and data files for “Having a Second Child and Access to Childcare : Evidence from European Countries ”
+Abstract: Codes and data to replicate the results of the paper
+Classification-JEL: J11, J13, J16, O11
+Keywords: Childcare; Education; Fertility; Female employment;
+Series: UNIVERSITE CATHOLIQUE DE LOUVAIN, Institut de Recherches Economiques et Sociales (IRES)
+Number: 2017002
+Creation-Date: 2017-06-01
+Programming)Language: stata
+File-URL: https://sites.uclouvain.be/econ/JODE/83-2/83-2-2.zip
+File-Format: application/postscript/zipped
+Article-Handle: RePEc:ctl:louvde:v:83:y:2017:i:2:p:177-210
+Paper-Handle: 
+Handle: RePEc:ctl:louvdc:2017002
+
+Template-Type: ReDIF-Software 1.0
+Author-Name: Marwân-al-Qays BOUSMAH
+Author-Workplace-Name: Aix-Marseille School of Economics
+Title: Codes and data files for “Childhood Mortality, Childhood Morbidity, and Subsequent Fertility Decisions”
+Abstract: Codes and data to replicate the results of the paper
+Classification-JEL: C23, I15, J13
+Keywords: Fertility, Child mortality, Child morbidity, Malaria, Sub-Saharan Africa, Replacement effects and insurance effects 
+Series: UNIVERSITE CATHOLIQUE DE LOUVAIN, Institut de Recherches Economiques et Sociales (IRES)
+Number: 2017003
+Creation-Date: 2017-06-01
+Programming)Language: stata
+File-URL: https://sites.uclouvain.be/econ/JODE/83-2/83-2-3.zip
+File-Format: application/postscript/zipped
+Article-Handle: 
+Paper-Handle: RePEc:ctl:louvde:v:83:y:2017:i:2:p:211-244
+Handle: RePEc:ctl:louvdc:2017003
+
+Template-Type: ReDIF-Software 1.0
+Author-Name: Luca MARCHIORI
+Author-Workplace-Name: Central Bank of Luxembourg
+Author-Name: Olivier PIERRARD
+Author-Workplace-Name: Central Bank of Luxembourg
+Author-Name: Henri R. SNEESSENS
+Author-Workplace-Name: Université du Luxembourg and Université Catholique de Louvain
+Title: Codes and data files for “The EU-US Unemployment Puzzle Revisited : Insitutions, Demography, and Capital Flows”
+Abstract: Codes and data to replicate the results of the paper
+Classification-JEL: J11, F21, D91, C68
+Keywords: Demographics;  Capital flows; Overlapping generations; Unemployment
+Series: UNIVERSITE CATHOLIQUE DE LOUVAIN, Institut de Recherches Economiques et Sociales (IRES)
+Number: 2017004
+Creation-Date: 2017-09-01
+Programming)Language: matlab
+File-URL: https://sites.uclouvain.be/econ/JODE/83-3/83-3-1/UBEK16_2C_final.mod
+File-Format: text/plain
+Article-Handle: RePEc:ctl:louvde:v:83:y:2017:i:3:p:259-305
+Paper-Handle: 
+Handle: RePEc:ctl:louvdc:2017004
+
+Template-Type: ReDIF-Software 1.0
+Author-Name: Marion MERCIER
+Author-Workplace-Name: PSL, Université Paris-Dauphine, LEDa, UMR DIAL and IZA Bonn
+Author-Name: Philip VERWIMP
+Author-Workplace-Name: Université Libre de Bruxelles
+Title: Codes and data files for “Are we Counting all the Poor ? Accounting for the Intra-Household Allocation of Consumption in Burundi”
+Abstract: Codes and data to replicate the results of the paper
+Keywords: Poverty measurement; Intra-household allocation; Burundi;
+Series: UNIVERSITE CATHOLIQUE DE LOUVAIN, Institut de Recherches Economiques et Sociales (IRES)
+Number: 2017005
+Creation-Date: 2017-09-01
+Programming)Language: stata
+File-URL: https://sites.uclouvain.be/econ/JODE/83-3/83-3-2.zip
+File-Format: application/postscript/zipped
+Article-Handle: 
+Paper-Handle: RePEc:ctl:louvde:v:83:y:2017:i:3:p:307-327
+Handle: RePEc:ctl:louvdc:2017005
+
