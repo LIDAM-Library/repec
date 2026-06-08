@@ -9887,3 +9887,20 @@ Creation-Date: 2026-04-18
 DOI: https://doi.org/10.1016/j.ecosta.2026.04.001
 Handle: RePEc:aiz:louvar:2026015
 
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Pircalabelu, Eugen
+Author-Email: eugen.pircalabelu@uclouvain.be
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Bing, Xin
+Author-Workplace-Name: University of Toronto
+Title: Overlapping clustering of time dependent variables for fMRI data
+Abstract: We propose in this paper a framework for performing overlapping clustering in the presence of time dependence, where the main goal is to identify overlapping coarse parcelations of the brain based on resting state fMRI time series. Our procedure is based on the Latent OVErlapping (LOVE) clustering method of Bing et. al (2020) which we extend to weakly dependent time series. Although the method is developed in an fMRI context, it is general enough to be directly applicable to other contexts, such as gene expression data, where one has at disposal multiple time series and is interested in identifying overlapping groups of similar elements.
+Keywords: rs-fMRI ; brain parcelation ; overlapping clustering ; reduced-rank regression ; latent factor model
+Note: In: Journal of the Royal Statistical Society. Series C: Applied Statistics, 2026
+Length: 33
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026016
+Creation-Date: 2026-01-01
+DOI: https://
+Handle: RePEc:aiz:louvar:2026016
+
