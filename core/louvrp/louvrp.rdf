@@ -35865,3 +35865,38 @@ Number: 3360
 Creation-Date: 2026-05-15
 Handle: RePEc:cor:louvrp:3360
 
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Saidi, Rola
+Author-Name: Deleplanque, Samuel
+Author-Name: Creemers, Stefan
+Author-Email: stefan.creemers@uclouvain.be
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/CORE, Belgium
+Author-Name: Pérez Armas, Luis Fernando
+Author-Name: Hibti, Mohamed
+Author-Name: Zouari, Belhassen
+Title: Quantum Annealing Approaches for Minimal Cut Set Identification in Fault Trees
+Abstract: The identification of Minimal Cut Sets (MCS) in Fault Trees (FT) is central to Probabilistic Safety Assessment (PSA) but remains computationally challenging. While gate-based quantum algorithms have been explored, Quantum Annealing (QA) has not yet been applied to this industrial use case. This work investigates the application of QA to MCS identification by modeling the FT as a boolean function and implementing three existing SAT to Quadratic Unconstrained Binary Optimization (QUBO) encoding strategies. We evaluate these encodings using generated 3-SAT instances as well as realistic FT benchmarks, and conduct experiments on a simulated annealer and two D-Wave architectures. Our results show that the encoding with reusable auxiliary variables is the most efficient in terms of qubit requirements and embedding scalability. In addition, the Zephyr architecture provides improved embeddability compared to Pegasus, reflected in reduced chain break occurrences and better performance on larger instances. Across these experiments, QA demonstrates the ability to sample diverse valid solutions, making it suitable for exploring the solution space of MCS problems. However, its performance remains limited by hardware constraints and the maximum number of possible shots, which prevent exhaustive identification of all solutions in larger instances.
+Keywords: Quantum Annealing ; Fault Tree Analysis ; Minimal Cut Sets ; SAT-to-QUBO
+Note: In: Reliability Engineering & System Safety, 2026
+Length: 34
+Series: UCLouvain, LIDAM, CORE
+Number: 3361
+Creation-Date: 2026-05-27
+DOI: https://doi.org/10.1016/j.ress.2026.112907
+Handle: RePEc:cor:louvrp:3361
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Koster, Hans R.A.
+Author-Name: Proost, Stef
+Author-Name: Thisse, Jacques-François
+Title: Spatial Economics
+Abstract: An authoritative and cutting-edge exploration of how land, transportation, and economic forces shape cities, regions, and the distribution of economic activities from a local to a global scale.
+Land, by its very nature, is immobile and unproduced, creating competition for prime locations that drives disparities in economic outcomes. Transportation, meanwhile, serves as the mechanism for overcoming spatial frictions but imposes costs that influence where firms and individuals choose to locate. Together, these factors explain the emergence and persistence of cities, regional disparities, and even global patterns of economic concentration. In Spatial Economics, Hans R.A. Koster, Stef Proost, and Jacques-François Thisse explore how cities, regions, and the global economy are shaped by the interplay between location, land use, and transportation. The authors examine why economic activities are clustered in large metropolitan areas and dispersed in vast areas, driven by the balance between the gains from concentration and various congestion and pollution costs. Blending classical theories with modern data and modeling approaches, the book addresses urbanization, spatial inequality, and the effects of policies like infrastructure investments and land regulations. Accessible yet rigorous, it offers valuable insights for understanding the geographic organization of economic activity in today's interconnected world.
+Note: Oxford University Press, 2026. - ISBN 9780197824696
+Length: 530
+Series: UCLouvain, LIDAM, CORE
+Number: 3362
+Creation-Date: 2026-05-26
+DOI: https://doi.org/10.1093/oso/9780197824696.003.0001
+Handle: RePEc:cor:louvrp:3362
+
