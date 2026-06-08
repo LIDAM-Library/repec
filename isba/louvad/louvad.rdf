@@ -8475,3 +8475,89 @@ Creation-Date: 2026-05-11
 File-Format: application/pdf
 Handle: RePEc:aiz:louvad:2026016
 
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Hafner, Christian
+Author-Email: christian.hafner@uclouvain.be
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Preminger, Arie
+Title: An ARCH-in-Mean Model without Intercept
+Abstract: This paper introduces an ARCH-in-mean model without intercept, which is characterized by nonstationarity irrespective of the parameters. A critical parameter region is derived for which the volatility process behaves like a random walk. We establish the asymptotic properties of the quasi maximum likelihood estimator (QMLE) for the volatility and risk premium parameters. It is shown that the existence of the second and fourth order moment of the innovations is sufficient to derive the consistency and the asymptotic normality of the QMLE, respectively. The variance of the estimator of the volatility parameter does not depend on the underlying process. We further suggest a test for model stability and a test for the risk premium, which is non-standard as the parameter is on the boundary under the null. The finite sample performance of the estimator and the stability test are investigated in a simulation study. Finally, the model is applied to a monthly stock index series.
+Keywords: Volatility ; non-stationarity ; risk premium ; asymptotic theory ; maximum likelihood
+Length: 23
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026017
+Creation-Date: 2026-05-27
+Handle: RePEc:aiz:louvad:2026017
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Denuit, Michel
+Author-Email: michel.denuit@uclouvain.be
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Robert, Christian Y.
+Title: Conditional mean risk sharing with settlement delays in peer-to-peer disability insurance
+Abstract: This paper develops a dynamic conditional mean risk-sharing mechanism for peer-to-peer disability insurance when claim amounts are not observed at occurrence time. The model is motivated by cooperative arrangements such as Dutch bread funds, where participants mutually protect each other against the economic consequences of disability. We consider a two-state model in which participants move between active and disabled states, and where the ultimate cost of a disability claim is determined by the duration of the disability spell. Since this duration is only known at recovery, the conditional mean risk-sharing allocation cannot be implemented immediately when the claim is reported. The proposed mechanism requires active participants to contribute an initial reserve when a disability spell starts. This reserve is then dynamically updated as information about the claim development becomes available, and it converges at settlement to the terminal conditional mean risk-sharing allocation. We show that the dynamic reserve is a conditional expectation of the corresponding thinned individual loss under the information used by the pool. This representation yields martingale, conditional full-allocation and actuarial fairness properties. Most importantly, the cumulative contribution paid by each participant is smaller in convex order than the corresponding stand-alone incurred-and-reserved disability cost. Hence, every risk-averse participant is willing to join the pool. Numerical illustrations show how reserves and final adjustments depend on disability duration and heterogeneous recovery rates.
+Keywords: Conditional mean risk sharing ; peer-to-peer insurance ; disability insurance ; multistate model ; settlement delay ; dynamic reserving ; convex order
+Length: 36
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026018
+Creation-Date: 2026-05-29
+Handle: RePEc:aiz:louvad:2026018
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Kouton, Samuel Darwin Dona
+Author-Name: Barigou, Karim
+Author-Email: karim.barigou@uclouvain.be
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Nguyen, Thai
+Title: Pricing life insurance using bivariate temperature-mortality seasonal hidden Markov models
+Abstract: We study the dependence between weekly mortality and temperature through a non-homogeneous Seasonal Hidden Markov Model (SHMM) with trend. The framework jointly models mortality and temperature while allowing for regime switches, explicit seasonality, smooth longterm trends, and time-varying transition probabilities in latent dynamics. We show that the general identifiability and strong consistency results of Touron (2018) apply to our Poissonand Gaussian-emission specifications. We estimate the model on weekly Italian mortality and temperature data using two- and three-state specifications. Empirically, the SHMM improves fit relative to non-switching benchmarks and yields an interpretable state-dependent characterization of the temperature–mortality relationship. We then develop a change-of-measure framework for pricing mortality-linked insurance contracts that incorporates temperature-related mortality risk and latent regime uncertainty.
+Keywords: Life insurance ; mortality modeling ; regime-switching ; seasonality ; temperature ; climate risk
+Length: 26
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026019
+Creation-Date: 2026-05-29
+Handle: RePEc:aiz:louvad:2026019
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Dendoncker, Valentin
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Denuit, Michel
+Author-Email: michel.denuit@uclouvain.be
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Robert, Christian Y.
+Title: Convex order monotonicity of conditional mean predictors in latent mixture models
+Abstract: This paper studies the monotonicity, in the convex order, of conditional mean predictors based on aggregate statistics in latent mixture models. For partial sums Sj= X1 +···+ Xj, we give general conditions under which E[Xi |Sj] is dominated by E[Xi |Sj−1] in the convex order, i < j. Such an ordering means that enlarging the conditioning sum reduces the dispersion, and hence the informativeness, of the corresponding conditional mean predictor. The first set of results is based on a projection identity for conditional expectations and includes the classical case where an independent noise term is added to the signal. We thenshow that the same convex-order reduction follows from a Markov dependence structure. This provides a tractable route for latent mixture models: when the variables are conditionally independent given a common factor and belong to natural exponential families with a common canonical parameter, the sufficiency of partial sums yields the required Markov property. A complementary analysis characterizes situations in which the conditional mean predictor is affine or proportional to the conditioning sum. In particular, for convolution semigroups associated with infinitely divisible distributions, we identify the latent scaling structures leading to proportional predictors. The results apply to a range of standard models, including Poisson, binomial, negative binomial, Gamma, normal, inverse Gaussian, Tweedie, compound Poisson and tempered stable distributions.
+Keywords: Convex order ; Conditional mean prediction ; Latent mixture models ; Natural exponential families ; Sufficient statistics ; Infinitely divisible distributions
+Length: 32
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026020
+Creation-Date: 2026-06-01
+Handle: RePEc:aiz:louvad:2026020
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Bailly, Gabriel
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Gaunt, Robert E.
+Author-Name: Ouimet, Frédéric
+Author-Email: frederic.ouimet2@uqtr.ca
+Author-Name: Richards, Donald
+Author-Name: von Sachs, Rainer
+Title: Stein’s method for the Wishart distribution
+Abstract: In this work, we develop Stein’s method for the Wishart distribution on the cone of positive
+definite matrices. We establish the basic ingredients of a Wishart Stein framework: we derive
+an extended-generator-based Stein characterization from the Wishart diffusion process, identify
+the corresponding transition semigroup through the noncentral Wishart law, provide an explicit
+semigroup representation for the solution of the Stein equation, and obtain regularity estimates
+for the solution. The new methodology is demonstrated in four applications: (i) an order n−1
+bound, for smooth test functions, for the Wishart approximation of uncentered group-mean
+scatter matrices in MANOVA; (ii) a quantitative multivariate Satterthwaite approximation; (iii)
+local/integrated De Bruijn identities and logarithmic Sobolev inequalities for the Wishart mea-
+sure; and (iv) Stein’s method of moments for the shape and scale parameters, including structured
+scale estimation.
+Keywords: Stein’s method ; Wishart approximation ; Wishart distribution ; Wishart process
+Length: 93
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026021
+Creation-Date: 2026-06-04
+Handle: RePEc:aiz:louvad:2026021
+
