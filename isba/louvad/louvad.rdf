@@ -8561,3 +8561,82 @@ Number: 2026021
 Creation-Date: 2026-06-04
 Handle: RePEc:aiz:louvad:2026021
 
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Henshaw, Kira
+Author-Name: Ramirez, Jorge
+Author-Name: Flores-Contró, José Miguel
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Thomann, Enrique A.
+Author-Name: Loke, Sooie-Hoe
+Author-Name: Constantinescu, Corina
+Title: On the Impact of Insurance on Households Susceptible to Random Proportional Losses: An Analysis of Poverty Trapping
+Abstract: The trapping probability, ψ, as defined in Kovacevic and Pflug (2011), is modelled by assuming proportional capital losses, both in the case where there is no insurance and in the case where insurance is purchased by the household. Insurance coverage is likewise proportional, mirroring the structure of quota-share contracts, which are both prevalent in practice and analytically convenient. New closed formulae for ψ are obtained in the case of no insurance when the distribution of the remaining proportion of capital is a power law, extending the results in Kovacevic and Pflug (2011). When proportional insurance is acquired and the remaining proportion of capital is uniformly distributed on [0,1], ψ satisfies a non-local differential equation whose analysis is based on the properties of diffusion processes. The non-local nature of the equation can be addressed using iterative solution methods, leading to a constructive determination of the trapping probability. Constraints on the parameters governing the capital process are derived in both the uninsured and insured cases to prevent the certainty of trapping. Numerical calculations are used to determine the trapping probability for the insured process and to illustrate the impact of different parameters. Consequences on the trapping probability for vulnerable non-poor populations with initial capital slightly above the poverty line are discussed.
+Classification-JEL: G220 ; G520 ; O120
+Keywords: Microinsurance ; poverty traps ; trapping probability ; risk processes ; proportional losses ; proportional microinsurance
+Length: 42
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026022
+Creation-Date: 2026-06-09
+Handle: RePEc:aiz:louvad:2026022
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Dendoncker, Valentin
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Denuit, Michel
+Author-Email: michel.denuit@uclouvain.be
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Robert, Christian Y.
+Title: Reverse-time scores and convex-order monotonicity for additive processes with Lévy clocks
+Abstract: We study reverse-time conditional means, scores and drift quantities in additive noisemodels driven by deterministic Lévy clocks. Starting from an integrable signal Y and an independent centered additive process (Zt)t∈[0,T ], we consider the forward noising model Xt = Y + Zt, 0 ≤t≤T, and its reverse-time version Xs = XT−s. The main examples are Gaussian noise with deterministic variance clock, compensated compound Poisson noise with deterministic intensity clock, and symmetric α-stable noise with stable clock, for α∈(1,2). We first derive Bartlett–Tweedie identities for additive noise models and characterize, within the infinitely divisible class, the cases in which the denoising map x→E[Y |Y + ε= x] is affine. This occurs precisely when the signal and the noise are compatible with the same convolution semigroup. We then prove that the reverse conditional mean and the denoising error normalized by the accumulated noise clock are martingales in reverse time. As a consequence, both families are increasing in the convex order along reverse time. The actual reverse drift, or reverse local mean drift in the jump and stable cases, is obtained by multiplying this normalized score by the instantaneous clock rate. It is therefore not a martingale in general, but it defines a peacock when the instantaneous rate is non-decreasing in reverse time. Explicit linear formulas are obtained for semigroup-compatible initial laws. The Cauchy case is treated separately, since the lack of integrability prevents an ordinary convex-order analysis of the reverse score drift.
+Keywords: Conditional expectation ; convex order ; peacocks ; reverse-time dynamics ; additive processes ; Lévy clocks ; infinitely divisible distributions ; Tweedie formula
+Length: 40
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026023
+Creation-Date: 2026-06-08
+Handle: RePEc:aiz:louvad:2026023
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Simar, Léopold
+Author-Email: leopold.simar@uclouvain.be
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Zelenyuk, Valentin
+Author-Name: Zhao, Shirong
+Title: Statistical Inference for the Aggregate Sources of Productivity Change Measured by Malmquist Productivity Indices
+Abstract: The Malmquist productivity index (MPI) is one of the most widely used tools for measuring productivity change over time. A recent contribution by Pham et al. (2024) develops statistical inference procedures for the aggregate (or weighted) MPI of a group of firms. Building on this framework, the present paper develops statistical inference for the aggregate sources of productivity change measured by MPI. In particular, we derive the central limit theorems of the aggregated components, thereby enabling hypothesis testing for changes in technology, efficiency, and related sources. We illustrate the developed theoretical results by analyzing the sources of productivity change for 84 countries. Moreover, analogous theoretical results can be established for alternative productivity measures and their decompositions, including the Hicks–Moorsteen productivity index, the Luenberger productivity index, the Malmquist–Luenberger productivity index, etc.
+Classification-JEL: C12, C14, C43, C67
+Keywords: Data Envelopment Analysis ; Malmquist Productivity Index ; Aggregation ; Central Limit Theorem ; Efficiency Change ; Technology Change
+Length: 31
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026024
+Creation-Date: 2026-06-13
+Handle: RePEc:aiz:louvad:2026024
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: So, Kenrick
+Author-Email: kenrick.so@uclouvain.be
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Barigou,  Karim
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Robben, Jens
+Author-Workplace-Name: University of Amsterdam
+Title: Climate–Driven Mortality Forecasting Using Deep Learning
+Abstract: Climate extremes have become important drivers of mortality, producing sudden spikes that traditional mortality models fail to predict. To address this gap, we propose a two-step modelling framework that combines a regional weekly Lee–Carter baseline model that captures long-term mortality trends and overall seasonal patterns, with two complementary deep learning architectures designed to model excess mortality driven by environmental conditions and climate shocks. The first, a CNN–LSTM, captures region-specific temporal responses through convolutional filters. The second, a GNN–LSTM, replaces convolutions with graph-based representations to model spatial mortality dependencies and the propagation of climate-related impacts across regions. Both architectures are further extended to a quantile LSTM framework that produces time-varying prediction intervals. We evaluate our models against both the Lee–Carter baseline and MortFCNet (Zheng et al., 2025). Using French regional data over 1990–2019, our models capture delayed and nonlinear associations between environmental extremes and excess mortality. Both proposed architectures outperform the Lee–Carter baseline and MortFCNet across all regions, each reducing test MSE by approximately 24% relative to the MortFCNet, with particularly large gains at the oldest ages where climate-driven mortality spikes are most severe. From a risk management perspective, the proposed framework provides a more realistic characterization of extreme climate-driven mortality risk, with time-varying prediction intervals that offer a more informed basis for the assessment of climate-related longevity exposure by insurers and pension funds.
+Keywords: Mortality forecasting ; climate extremes ; convolutional neural networks ; graph neural networks ; recurrent neural networks
+Length: 32
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026025
+Creation-Date: 2026-06-25
+Handle: RePEc:aiz:louvad:2026025
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Soetewey, Antoine
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Marie, Joshua
+Title: kindling: A Higher-Level torch Interface for Generating, Training, and Tuning Neural Networks in R
+Abstract: {kindling} is an R (R Core Team, 2025) package that provides a higher-level interface to the {torch} package (Falbel and Luraschi, 2025), R’s native implementation of PyTorch, for defining, training, and tuning neural networks. This package supports MLPs with the same topology, including the standard deep feedforward neural networks and recurrent variants (RNN, LSTM, GRU), while reducing the boilerplate typically required to write {torch} neural network architecture expression and training loops by hand. The package is organized around three levels of abstraction. At the lowest level, generator functions (for example ffnn generator()) return unevaluated torch::nn module() expressions that users can inspect or modify directly, since {kindling} builds its models through code generation rather than opaque wrapper objects. At an intermediate level, functions such as ffnn() and rnn() train a model directly from a formula and data frame, handling data preparation, the optimization loop, and, optionally, early stopping and a validation split. At the highest level, mlp kindling() and rnn kindling() register these models as {parsnip} model specifications (Kuhn and Vaughan, 2026), so they can be fit, tuned, and evaluated using the rest of the {tidymodels} ecosystem (Kuhn and Wickham, 2020): {recipes} for preprocessing, {workflows} for bundling preprocessing and modeling steps, and {tune}/{dials} for hyperparameter search over layer widths, network depth, activation functions, the output activation, the optimizer, and other architectural choices. Fitted models can also be inspected with variable-importance methods from {NeuralNetTools} (Beck, 2018), implementing the algorithms of Garson (Garson, 1991) and Olden and Jackson (Olden and Jackson, 2002), and with the {vip} package. Figure 1 shows an example of this last capability applied to the feedforward network trained in the package’s own README usage example.
+Length: 5
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026026
+Creation-Date: 2026-07-03
+Handle: RePEc:aiz:louvad:2026026
+
