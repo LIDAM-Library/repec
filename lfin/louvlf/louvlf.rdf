@@ -1148,3 +1148,18 @@ File-URL: https://dial.uclouvain.be/pr/boreal/en/object/boreal%3A312701/datastre
 File-Format: application/pdf
 Handle: RePEc:ajf:louvlf:2026002
 
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Brigo, Damiano
+Author-Workplace-Name: Imperial College London
+Author-Name: Vrins, Frédéric
+Author-Email: frederic.vrins@uclouvain.be
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/LFIN, Belgium
+Title: On the boundaries, asymptotic law and Bernoulli-Doob representation of homogeneous bounded martingales
+Abstract: We study homogeneous diffusion martingales evolving in a bounded state space D = [a,b], where aand bare zeros of the diffusion coefficient. We call a process of the form Zt = E[B | Ft], with B a Bernoulli random variable, a Bernoulli-Doob martingale. Our main results establish a complete equivalence: every such diffusion martingale is a Bernoulli-Doob martingale (Theorem 2) and, conversely, every continuous time-homogeneous Markov Bernoulli-Doob martingale on a Brownian filtration arises from such a diffusion (Theorem 3). The intuitive reason is that a bounded martingale has constant expectation while accumulating variance, so it converges to the maximum-variance distribution with given mean and range, namely the Bernoulli. We further show that this Bernoulli limit is truly asymptotic: for any fixed finite horizon T, the probability of not yet having reached the boundary is strictly positive (Theorem 4), even when the individual boundaries are accessible. We clarify the relationship between Feller’s boundary classification, the pathwise SDE framework, and the martingale constraint, showing that the martingale property forces absorption at any attainable boundary. The theory is illustrated with the Φ-martingale, the Jacobi martingale, and applications to credit-risk modelling.
+Keywords: Bounded stochastic processes ; martingales ; asymptotic law ; Bernoulli-Doob martingale ; boundary classification ; Feller theory
+Length: 21
+Series: UCLouvain, LIDAM, LFIN
+Number: 2026003
+Creation-Date: 2026-07-08
+Handle: RePEc:ajf:louvlf:2026003
+
