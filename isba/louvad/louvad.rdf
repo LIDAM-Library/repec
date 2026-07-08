@@ -8640,3 +8640,20 @@ Number: 2026026
 Creation-Date: 2026-07-03
 Handle: RePEc:aiz:louvad:2026026
 
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Hentschel, Manuel
+Author-Workplace-Name: University of Geneva
+Author-Name: Röttger, Frank
+Author-Workplace-Name: University of Twente
+Author-Name: Segers, Johan
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Engelke, Sebastian
+Author-Workplace-Name: University of Geneva
+Title: Directional variograms for multivariate extremes
+Abstract: Multivariate generalized Pareto distributions arise as limits of threshold exceedances and form a central model class for multivariate extremes. Existing inference methods based on the extremal variogram condition on the value of a single component, which can be statistically suboptimal. We generalize this approach by conditioning the multivariate generalized Pareto random vector Y to lie on arbitrary half-spaces. Specifically, for a direction vector v, we introduce the random vector Y v = (Y |v⊤Y > 0) and define the associated v-variogram Γv ij = Var(Y v i−Y v j ). We establish the decomposition Y v d = W v + E1 into the so-called v-extremal function W v and an independent exponential random variable E, and derive several results relating these random variables to each other. For logistic, Dirichlet, and H¨usler–Reiss multivariate generalized Pareto models, we derive closed-form expressions for Γv . In the H¨usler–Reiss case, we further derive new density representations and identify a distinguished resistance-curvature vector v0 that uniquely centers the Gaussian law of W v0 while characterizing the least-mass half-space. On the statistical side, we introduce empirical v-variograms and show in a simulation study that the choice of v induces a pronounced bias-variance trade-off that is strongly related to the mass of the conditioning half-space. Moreover, combining information across multiple directions v can substantially reduce estimation variance relative to methods based on a single vector.
+Length: 31
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026027
+Creation-Date: 2026-07-03
+Handle: RePEc:aiz:louvad:2026027
+
