@@ -9904,3 +9904,39 @@ Creation-Date: 2026-01-01
 DOI: https://
 Handle: RePEc:aiz:louvar:2026016
 
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Belhouari, Oussama
+Author-Email: oussama.belhouari@uclouvain.be
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Devolder, Pierre
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Linders, Daniel
+Title: The Three-step method in a dynamic setting
+Abstract: A crucial issue in a dynamic framework is how risk valuations at different times are interrelated. In this regard, the notion of time consistency was widely introduced and discussed in the literature. A time-consistent dynamic valuation states that a future payoff preferred to another payoff at some future time point should already be preferred to this payoff today. This paper aims to construct a time-consistent, dynamic version of the Three-step method introduced in Deelstra et al. ((2020). ASTIN Bulletin: The Journal of the IAA, 50(3), 709–742.) for hybrid life Pure Endowment products, employing a backward iteration scheme. The backward scheme is illustrated in a dual-iteration approach using a Pure Endowment product without profit sharing. Furthermore, we explore the continuous-time limit of the backward scheme, incorporating profit-sharing into the Pure Endowment to investigate a hybrid life payoff. Our analysis demonstrates that the presence of the diversifiable component undermines the time-consistency of the dynamic three-step method. Consequently, the time-consistent price of the actuarial part shows a notable increase. To address this, and in accordance with Devolder and Lebègue ((2016). Risks, 4(4), 49.), we present a reduced time-consistent variant by decreasing the safety loads in each iterative step of the backward scheme.
+Keywords: Backward iteration scheme ; fair dynamic valuation ; hybrid life payoff ; premium principles ; time-consistent
+Note: In: Annals of Actuarial Science, 2026
+Length: 31
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026017
+Creation-Date: 2026-04-30
+DOI: https://doi.org/10.1017/S1748499526100323
+Handle: RePEc:aiz:louvar:2026017
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Doms, Hortense
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Lambert, Philippe
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Legrand, Catherine
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Title: Joint modelling of longitudinal HRQoL data accounting for the risk of competing dropouts
+Abstract: In cancer clinical trials, health-related quality of life (HRQoL) is an important endpoint, providing information about patients’ well-being and daily functioning. However, missing data due to premature dropout can lead to biased estimates, especially when dropouts are informative. This paper introduces the JMIRT approach, a novel tool that efficiently analyses multiple longitudinal ordinal categorical data while addressing informative dropout. Within a joint modelling framework, this approach connects a latent variable, derived from HRQoL data, to cause-specific hazards of dropout. Unlike traditional joint models, which treat longitudinal data as a covariate in the survival submodel, our approach prioritizes the longitudinal data and incorporates the log dropout risks as covariates in the latent process. This leads to a more accurate analysis of longitudinal data, accounting for potential effects of dropout risks. Through extensive simulation studies, we demonstrate that JMIRT provides robust and unbiased parameter estimates and highlight the importance of accounting for informative dropout. We also apply this methodology to HRQoL data from patients with progressive glioblastoma, showcasing its practical utility.
+Keywords: Bayesian joint models ; Informative dropout ; Item response theory ; Quality of life
+Note: In: Journal of the Royal Statistical Society Series C: Applied Statistics, 2026
+Length: 22
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026018
+Creation-Date: 2026-07-08
+DOI: https://doi.org/10.1093/jrsssc/qlag036
+Handle: RePEc:aiz:louvar:2026018
+
