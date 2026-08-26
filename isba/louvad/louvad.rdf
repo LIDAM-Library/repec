@@ -8657,3 +8657,64 @@ Number: 2026027
 Creation-Date: 2026-07-03
 Handle: RePEc:aiz:louvad:2026027
 
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Chevalier, Noémie
+Author-Name: Soetewey, Antoine
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Matthys, Hélène
+Author-Name: Depecker, Marianne
+Title: Serum amyloid A concentrations in horses with acute equine piroplasmosis caused by Babesia caballi or Theileria equi
+Abstract: Equine piroplasmosis is a widespread tick-borne disease caused by Babesia caballi and Theileria equi. Clinical signs are non-specific and include fever, inappetence, icteric mucous membranes and lethargy; typical laboratory changes are hemolytic anemia and thrombocytopenia. Affected horses may become chronic carriers, which sometimes lead to unnecessary treatment in asymptomatic cases. Serum amyloid A (SAA) is a major equine acute-phase protein and a sensitive biomarker of inflammation. Well studied in bacterial and inflammatory conditions, its value in equine piroplasmosis remains unclear. Here, we investigated SAA concentrations in horses acutely infected with Babesia caballi or Theileria equi and compared to healthy horses. We included 25 horses: 10 healthy controls, 6 Babesia caballi-positive horses and 9 Theileria equi-positive horses. SAA concentrations were measured using a point-of-care immunoassay, and infection status (Babesia / Theileria) was determined using a loop-mediated isothermal amplification assay. We also performed ancillary diagnostic tests to exclude concurrent diseases. We found that SAA concentrations were significantly higher in horses positive for Babesia (p = 0.001) and Theileria (p = 0.001) compared to controls, with a respective increase of approximately 2312 µg/L (95% CI: 2234.0 to 2389.6 µg/L; p < 0.001) and 2024 µg/L (95% CI: 1955.2 to 2093.6 µg/L; p < 0.001) relative to controls. SAA value was not significantly different between Theileria and Babesia status. These results reflect the systemic inflammatory response associated with acute equine piroplasmosis; although nonspecific, SAA may represent a rapid and useful adjunctive marker for the diagnosis and monitoring of these cases.
+Keywords: Babesia caballi ; Horses ; Piroplasmosis ; Serum amyloid A ; Theileria equi
+Length: 23
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026028
+Creation-Date: 2026-07-29
+Handle: RePEc:aiz:louvad:2026028
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Hu, Shuang
+Author-Email: hushuang@cqupt.edu.cn
+Author-Name: Segers, Johan
+Author-Email: johan.segers@uclouvain.be
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Title: Estimating the Hüsler–Reiss variogram matrix by clipped moments
+Abstract: In multivariate extreme value analysis, the tail dependence between some of the risk variables at hand may be weak, even when other variables do tend tobecome large simultaneously. Weak tail dependence may induce a substantial bias in estimation procedures based on the limiting multivariate (generalized) Pareto distribution of excesses over high thresholds. We consider a Hüsler–Reiss multivariate generalized Pareto model and, motivated by this issue, propose first- and second-order moment estimators of its variogram matrix constructed from a lower-tail-clipped version of the underlying random vector. The asymptotic normality of the proposed estimators is established. We demonstrate by simulation studies that they have lower bias than the empirical variogram estimator in certain cases, particularly when the dependence between components is weak. The estimators are applied to flood discharge data from the Danube river basin and the US flight delay data, showing that the tail dependence structure implied by the fitted model based on the first-order clipped moment estimator aligns more closely with the empirical tail dependence of the data than that based on the empirical variogram estimator.
+Keywords: Hüsler–Reiss distribution ; Variogram matrix ; Moment estimator
+Length: 55
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026029
+Creation-Date: 2026-07-23
+Handle: RePEc:aiz:louvad:2026029
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Denuit, Michel
+Author-Email: michel.denuit@uclouvain.be
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Robert, Christian Y.
+Author-Name: Wüthrich, Mario V. 
+Title: The Balance Property: From Insurance Pricing to Risk-Sharing
+Abstract: The balance property is an in-sample global calibration constraint requiring the total fitted actuarial price to be equal to the total observed loss. For generalized linear models (GLMs) fitted by maximum likelihood estimation (MLE), this property holds automatically under the canonical link choice, but it generally fails under non-canonical link choices. Existing balance correction methods include quasi-MLE, simple post-processing of the intercept, and constrained MLE. This note proposes a fourth approach, motivated by the linear regression approximation of the conditional mean risk-sharing (CMRS) rule in large heterogeneous pools. Starting from the correctly specified MLE, the proposed correction allocates the aggregate balance defect according to the fitted conditional variances. We compare the four methods through two complementary asymptotic criteria. First, a delta method expansion gives the first-order mean squared error (MSE) of the fitted pure premium. Under this criterion, the proposed correction shares the same MLE component as the simple post-processing and the constrained MLE corrections, but differs in the way it allocates the balance defect. Second, we derive its average Kullback–Leibler (KL) divergence and show that the variance-weighted correction is locally optimal among additive first-order balance corrections acting directly on the fitted mean function. Thus, the proposed method complements constrained MLE: the latter is optimal within the parametric GLM class, whereas the former is optimal in a larger class of mean function corrections and has a direct risk-sharing interpretation. The paper finally highlights the link between insurance pricing models possessing the balance property and risk-sharing rules. This view reconciles two seemingly disconnected core actuarial topics, ex-ante premium calculation and ex-post loss allocation to participants in a peer-to-peer insurance pool.
+Keywords: Balance property ; generalized linear model ; risk-sharing ; conditional mean risk-sharing ; loss allocation ; peer-to-peer insurance ; delta method ; post-processing
+Length: 25
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026030
+Creation-Date: 2026-08-19
+Handle: RePEc:aiz:louvad:2026030
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Belhouari, Oussama
+Author-Email: oussama.belhouari@uclouvain.be
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Devolder, Pierre
+Author-Email: pierre.devolder@uclouvain.be
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Title: Inflation impact on multi-cash-flow hybrid life products
+Abstract: The current economic environment is frequently subject to inflationary pressures that severely erode retirees’ purchasing power. Consequently, insurers are increasingly expected to offer life annuity products that explicitly incorporate inflation protection. However, pricing these hybrid multi-cash-flow products is challenging because financial markets lack assets that perfectly replicate long-term inflation, thereby leading directly to an incomplete financial market. Since inflation-indexed annuities are also exposed to mortality risk, we need a multi-decomposition-step operator able to formally separate the hedgeable financial strategy from idiosyncratic biometric pooling and systematic risk buffering, while ensuring a market–actuarial-consistent valuation. Moreover, in practice, inflation-indexed annuities are exposed to inflation that fluctuates stochastically, which, in turn, calls for a joint stochastic treatment of nominal interest rates. Driven by the previous requirements, our first contribution is to extend the stochastic-interest-rate three-step method of Belhouari et al. (2025) to incomplete financial markets for multi-cash-flow hybrid life payments. We found that both the hedgeable component and its associated systematic financial risk depend on the hedging strategy. However, we deliberately evaluate the hedgeable component and its associated systematic financial risk such that their sum is invariant to the hedging strategy and equals the best-estimate value. Hence, our goal is to explore how the insurer can allocate the same best-estimate value between these two components depending on the hedging strategy chosen and the assets available in the hedging portfolio. First, we start by relying only on standard nominal zero-coupon bonds, which are readily available in the financial market as traded assets, and highlight that the hedge price does not benefit from the nominal interest rate–inflation correlation. We then examine cross-hedging with an inflation-correlated stock and find that it improves partial hedging and modestly reduces the hedge price, and increases the systematic financial risk premium that can be absorbed by holding additional capital.
+Keywords: Inflation risk ; hybrid life insurance ; multi-cash-flow ; actuarial ; financial
+Length: 43
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026031
+Creation-Date: 2026-08-25
+Handle: RePEc:aiz:louvad:2026031
+
