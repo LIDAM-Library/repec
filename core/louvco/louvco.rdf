@@ -39538,3 +39538,96 @@ Number: 2026012
 Creation-Date: 2026-07-03
 Handle: RePEc:cor:louvco:2026012
 
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Catanzaro, Daniele
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/CORE, Belgium
+Author-Name: Pesenti, Raffaele
+Author-Name: Ronco, Roberto
+Title: Spectral structure of path-length density matrices of unrooted binary trees
+Abstract: The Path-Length Density Matrix (PLDM) of an Unrooted Binary Tree (UBT) is the real symmetric matrix with zero diagonal and off-diagonal entries 2−τij , where τij denotes the number of edges on the unique path between leaves i and j. Here, UBTs are trees with n ≥ 3 leaves and all internal vertices of degree 3, and their PLDMs arise naturally in computational phylogenetics, network design, and information theory. In this article, we study PLDMs of UBTs and investigate how their spectra reflect the structure of the underlying trees. We prove that the smallest eigenvalue of any PLDM of a UBT is−1/4, with multiplicity equal to the number of leaf pairs sharing a common parent. We also show that specific eigenvalues characterize the presence of particular subtree configurations. For UBTs of minimum diameter, we derive closed-form expressions for the eigenvalues; for UBTs of maximum diameter, we relate the spectrum to an auxiliary Kac–Murdock–Szeg˝o-type matrix and obtain asymptotic results for the empirical spectral distribution and the edge spectral densities. These results show that the spectrum of a PLDM encodes explicit structural information about the underlying tree and suggest that spectral methods may be useful for optimization over this matrix class.
+Keywords: Spectrum ; path-length density matrices ; unrooted binary trees ; structured symmetric matrices ; computational phylogenetics
+Length: 27
+Series: UCLouvain, LIDAM, CORE
+Number: 2026013
+Creation-Date: 2026-08-13
+Handle: RePEc:cor:louvco:2026013
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Iania, Leonardo
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/CORE, Belgium
+Author-Name: Nersisyan, Liana
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/CORE, Belgium
+Author-Name: Nguyen, P. Thao
+Author-Workplace-Name: KU Leuven
+Author-Name: Smedts, Kristien
+Author-Workplace-Name: KU Leuven
+Title: Are oil price shocks priced in the cross-section of stock returns?
+Abstract: This paper investigates whether oil price shocks are priced in the cross-section of U.S. stock returns. We consider a wide range of oil-related measures, covering different sources: structural oil demand and supply shocks, oil price innovations, uncertainty measure surrounding future oil prices, and oil-related news surprises. We further distinguish between positive and negative shock realizations to assess whether the pricing of oil risk depends on the direction of the underlying shock. We find substantial heterogeneity in the pricing of oil related risks. Oil demand and oil price expectation shocks carry negative risk premia for both positive and negative realizations, while supply shocks are not systematically priced. Oil forecast disagreement carries a negative unconditional risk premium, in contrast to the positive risk premium associated with exposure to precautionary inventory shocks. Overall, the cross-sectional pricing of oil exposure depends on the economic source of the shock and, for some sources, on its direction.
+Keywords: Oil price shocks ; Cross section stock returns ; Oil price uncertainty
+Length: 36
+Series: UCLouvain, LIDAM, CORE
+Number: 2026014
+Creation-Date: 2026-08-11
+Handle: RePEc:cor:louvco:2026014
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Masolo, Riccardo M.
+Author-Email: rmmasolo@gmail.com
+Author-Workplace-Name: Università Cattolica del Sacro Cuore
+Author-Name: Monti, Francesca
+Author-Email: francesca.monti@uclouvain.be
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/CORE, Belgium
+Title: Inflation expectations of savers and borrowers
+Abstract: Households’ inflation expectations depend on their financial conditions, even after controlling demographic factors and expectations about the economic outlook. Specifically, savers report higher inflation expectations than borrowers. We establish these regularities using individual level data from the NY Fed’s Survey of Consumer Expectations, the Public Policy Survey and the Household Finance Survey. We make sense of these findings in a life-cycle model in which ambiguity-averse agents are borrowers and savers at different points in their lives. The wedge in expectations naturally arises as high inflation corresponds to the worst-case scenario for savers, while the opposite is true for borrowers.
+Length: 19
+Series: UCLouvain, LIDAM, CORE
+Number: 2026015
+Creation-Date: 2026-01-01
+Handle: RePEc:cor:louvco:2026015
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Cimadomo, Jacopo
+Author-Name: Giannone, Domenico
+Author-Name: Lenza, Michele
+Author-Name: Monti, Francesca
+Author-Email: francesca.monti@uclouvain.be
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/CORE, Belgium
+Author-Name: Sokol, Andrej
+Title: Fiscal monitoring with VARs
+Abstract: We design a Bayesian Mixed-Frequency Vector Autoregression (VAR) model for fiscal monitoring, i.e., to nowcast the government deficit-to-GDP ratio in real time and provide a narrative for its dynamics. The model incorporates both monthly cash and quarterly accrual fiscal indicators, together with other high-frequency macroeconomic and financial variables, as well as real GDP and the GDP deflator. Our model produces timely monthly density nowcasts of the annual deficit ratio, while governments and oﬃcial institutions generally only publish their point predictions bi-annually. Based on a database of real-time vintages of macroeconomic, financial, and fiscal variables for Italy, we show that the nowcasts of the annual deficit-to-GDP ratio produced by our model are similarly or more accurate than those of the European Commission, depending on the month in which the nowcast is produced. Our scenario analysis compares the dynamics of the deficit ratio associated with a monetary policy shock and a typical recession, finding a more muted response in the latter
+case.
+Classification-JEL: C11, E52, E62, E63, H68
+Keywords: Nowcasting ; Mixed-frequency ; Government deficit ; Cash data ; Monetary policy shock ; Monetary-fiscal interactions
+Length: 30
+Series: UCLouvain, LIDAM, CORE
+Number: 2026016
+Creation-Date: 2026-05-01
+Handle: RePEc:cor:louvco:2026016
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Aikman, David
+Author-Name: Monti, Francesca
+Author-Email: francesca.monti@uclouvain.be
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/CORE, Belgium
+Author-Name: Zhang, Shunshun
+Title: In the Fed we trust? Measuring trust in central banking and its effects on the macroeconomy
+Abstract: We develop a novel measure of trust in the Federal Reserve using Generative Artificial Intelligence to analyse millions of tweets referencing the Fed, its leadership, and its policy framework and decisions. Our measure exhibits pronounced swings that align with key events and responds intuitively to macro-financial variables and indicators of the U.S. monetary policy stance. To identify exogenous trust shocks, we use a narrative approach based on ethical scandals involving certain FOMC members. We find that trust shocks significantly affect macroeconomic conditions: news sentiment, business conditions, and the stock market all decline, while inflation expectations and market volatility (VIX) increase.
+Length: 43
+Series: UCLouvain, LIDAM, CORE
+Number: 2026017
+Creation-Date: 2026-07-14
+Handle: RePEc:cor:louvco:2026017
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Pestieau, Pierre
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/CORE, Belgium
+Title: Why do we need a full fledge social insurance for old age disability?
+Abstract: This paper pursues two aims. It first surveys the concerns surrounding the anticipated evolution of the three pillars of support for loss of autonomy, examining in turn the assumptions, projections, and underlying tensions that shape each of them. It then turns to the design of a comprehensive social policy framework — one capable of ensuring that the widest possible segment of the population enjoys equitable access to long-term care, in a manner that is both consonant with family solidarity and responsive to market dynamics.
+Classification-JEL: H2, H5
+Keywords: Long-term care ; disability risk ; informal care ; social insurance
+Length: 16
+Series: UCLouvain, LIDAM, CORE
+Number: 2026018
+Creation-Date: 2026-08-27
+Handle: RePEc:cor:louvco:2026018
+
