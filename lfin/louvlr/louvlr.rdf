@@ -2208,3 +2208,72 @@ Creation-Date: 2026-08-07
 DOI: https://doi.org/10.1016/j.jbef.2026.101232
 Handle: RePEc:ajf:louvlr:2026003
 
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Thewissen, James
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/LFIN, Belgium
+Author-Name: Shrestha, Prabal
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/LFIN, Belgium
+Author-Name: Arslan-Ayaydin, Özgür
+Author-Name: Beibei, Yan
+Title: Topics That Matter: ESG Reports and Information Asymmetry
+Abstract: This study examines how the thematic content of Environmental, Social, and Governance (ESG) reports relates to information asymmetry in capital markets. Analyzing 7,565 ESG reports from 1,715 U.S. firms between 1998 and 2023 using sentence-level topic modeling (sentLDA), we identify 30 distinct disclosure topics. Using the dispersion in analysts’ forecasts as a proxy for information asymmetry, the results indicate that environmental themes are associated with lower levels of analyst disagreement, social topics with higher disagreement, while governance-related themes show limited association. These findings highlight that the informativeness of ESG reports depends not only on whether firms choose to disclose ESG information, but also on what they choose to disclose. In addition, we find that first-time reports are more informative than subsequent ones and that topic diversity exhibits a concave relationship with informativeness, suggesting diminishing returns from a broader thematic coverage. Finally, we find that ESG reports’ informativeness is greater when analyst coverage is greater, institutional ownership is lower, ESG performance is higher, and third-party ESG ratings show greater convergence.
+Keywords: ESG reports ; Topic modeling ; Information asymmetry
+Note: In: Journal of Financial Research, 2026
+Length: 54
+Series: UCLouvain, LIDAM, LFIN
+Number: 2026004
+Creation-Date: 2026-03-24
+DOI: https://doi.org/10.1111/jfir.70053
+Handle: RePEc:ajf:louvlr:2026004
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Shrestha, Prabal
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/LFIN, Belgium
+Author-Name: Collewaert, Veroniek 
+Author-Workplace-Name: KU Leuven
+Author-Name: Thewissen, James
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/LFIN, Belgium
+Title: Institutional background in crowdfunding: trust, signals, and backers’ decisions
+Abstract: We propose that institutional backgrounds derived from the project location and the entrepreneur’s country-of-origin act as heuristic cues that facilitate swift trust judgment and, therefore, influence international digital exchange decisions. Using a dataset of 101,583 Kickstarter campaigns, we find that stronger institutional environments linked to the project and the entrepreneur positively affect backers’ participation. Moreover, the two institutional cues can compensate for one another. We also show that stronger institutional background of the project (yet not the entrepreneur) enhances low-cost signals’ credibility; and in the presence of some high-cost signals, institutional background (of the entrepreneur in particular) is less consequential.
+Classification-JEL: G41 ; F39 ; L26 ; M13
+Keywords: Crowdfunding ; Transaction platforms ; Institutions ; Signaling ; Financing
+Note: In: Small Business Economics, 2026, vol. 67(2), p. 865-914
+Length: 50
+Series: UCLouvain, LIDAM, LFIN
+Number: 2026005
+Creation-Date: 2026-04-15
+DOI: https://doi.org/10.1007/s11187-026-01209-4
+Handle: RePEc:ajf:louvlr:2026005
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Bouillot, Roland
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/LFIN, Belgium
+Author-Name: Candelon, Bertrand
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/LFIN, Belgium
+Author-Name: Kool, Clemens
+Author-Workplace-Name: Maastricht University
+Title: Measuring fragmentation risk in European bond markets using Machine Learning
+Abstract: This paper asks whether machine learning can forecast euro area sovereign bond spreads and whether the resulting forecasts can track financial fragmentation. Using a new high-dimensional monthly dataset of 4,948 macro-financial series for ten euro area countries from December 2008 to February 2025, we run a horse race among thirteen machine-learning models and two simple benchmarks, an AR(1) process and a random walk. XGBoost is the strongest machine-learning model and is never significantly outperformed by the other learners. It is not, however, the most accurate one-month-ahead forecaster: under strict out-of-sample re-estimation the AR(1) and the random walk attain lower point-forecast errors in every country. The value of the machine-learning approach lies elsewhere. SHAP decompositions recover the macrofinancial drivers of the predicted spreads. The forecasts form the basis of a fragmentation indicator built by clustering predicted spread paths. The indicator reproduces the core-periphery divide in the windows running to 2022. French spreads then decouple from the core after 2023. By 2024 to 2025 France and Belgium form a distinct cluster, a new source of fragmentation risk with direct implications for the transmission of a single monetary policy.
+Keywords: Machine learning ; Financial fragmentation risk ; XGBoost ; Sovereign spreads
+Note: In: Annals of Operation Research, 2026
+Series: UCLouvain, LIDAM, LFIN
+Number: 2026006
+Creation-Date: 2026-09-01
+DOI: https://
+Handle: RePEc:ajf:louvlr:2026006
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Candelon, Bertrand
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/LFIN, Belgium
+Author-Name: Luisi, Angelo
+Author-Workplace-Name: Ghent University
+Title: Testing for the Interconnection channel
+Abstract: When modeling a large cross-section of interconnected economies, correctly accounting for all the transmission channels is crucial. The use of local small scale Vector Autoregressive (VAR) models augmented by few common factors, or cross sectional averages, reflecting the importance of cross-border information, represents one of the solutions to avoid the proliferation of parameters in large heterogeneous VARs. The factors are typically extracted as a linear combination of the variables under analysis. Their loadings/weights can be estimated or derived from economic literature, and are usually interpreted as interconnection channels. We propose a novel Likelihood Ratio Test procedure to empirically evaluate the chosen set of weights, and show that testing is fundamental for valid inferences. We exploit the intuition that, if the factors employed are empirically valid, no residual information from the cross-section remains statistically significant. The proposed test is intuitive, easy to implement, and presents very good finite sample properties. In the empirical exercise, we test several interconnection channels for the sovereign bond market in the euro area.
+Keywords: Global VARs ; FAVARs ; Likelihood Ratio Test ; Interdependence
+Note: In: The Econometrics Journal, 2026
+Series: UCLouvain, LIDAM, LFIN
+Number: 2026007
+Creation-Date: 2026-09-01
+DOI: https://
+Handle: RePEc:ajf:louvlr:2026007
+
