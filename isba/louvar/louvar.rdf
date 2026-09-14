@@ -9940,3 +9940,238 @@ Creation-Date: 2026-07-08
 DOI: https://doi.org/10.1093/jrsssc/qlag036
 Handle: RePEc:aiz:louvar:2026018
 
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Jamotton, Charlotte
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Hainaut, Donatien
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Title: Latent Dirichlet Allocation for Structured Insurance Data
+Abstract: This article explores the application of Latent Dirichlet Allocation (LDA) to structured tabular insurance data. LDA is a probabilistic approach initially developed in Natural Language Processing (NLP) to uncover the underlying structure of (unstructured) textual data. It was designed to represent textual documents as a mixture of latent topics, and topics as mixtures of words. This study introduces LDA’s document-topic distribution as a soft clustering tool for unsupervised learning tasks in actuarial science. By defining each topic as a risk profile, each insurance policy as a document, and each modality of categorical covariates as a word, we extend LDA’s application beyond textual data. Our experimental results and analysis highlight how the modelling of policies based on topic cluster membership, and the identification of dominant modalities within each risk profile, can give insights into the prominent risk factors contributing to higher or lower claim frequencies.
+Keywords: Latent Dirichlet Allocation ; Topic modelling ; Soft clustering ; Insurance data ; Risk profile ; Natural language processing
+Note: In: Annals of Data Science, 2026
+Length: 34
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026019
+Creation-Date: 2026-02-23
+DOI: https://doi.org/10.1007/s40745-026-00674-8
+Handle: RePEc:aiz:louvar:2026019
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Jamotton, Charlotte
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Hainaut, Donatien
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Title: A Multivariate Energy-Based Fairness Adjuster for Premiums
+Abstract: Fairness in insurance pricing has received increasing attention, particularly in light of regulations calling for nondiscriminatory premium estimation such as the European Union (EU) Gender Directive (2012). This research focuses on removing structural bias in predicted premiums as a solidarity-driven fairness concept. We propose a gradient-based distributional adjustment designed to mitigate disparities across protected groups. The method relies on the Energy distance, a multivariate metric that enables the joint alignment of predicted premium distributions across multiple sensitive attributes (including nonbinary ones) simultaneously. To maintain overall prediction balance, a post hoc autocalibration step corrects biases in the total predicted number of claims. In addition, the method supports fairness adjustments for new policyholders without requiring retraining of the underlying fairness model. We evaluate the proposed methodology in a car insurance pricing setting, where demographic factors such as age and gender are commonly used for risk assessment and premium determination. Results show that the method effectively reduces group-level disparities while retaining a significant share of predictive accuracy.
+Note: In: North American Actuarial Journal, 2026
+Length: 44
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026020
+Creation-Date: 2026-08-05
+DOI: https://doi.org/10.1080/10920277.2026.2705183
+Handle: RePEc:aiz:louvar:2026020
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Azcue, Pablo
+Author-Name: Constantinescu, Corina
+Author-Name: Flores-Contró, José Miguel
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Muler, Nora
+Title: Optimal cash transfers and microinsurance to reduce social protection costs
+Abstract: Design and implementation of appropriate social protection strategies is one of the main targets of the United Nation’s Sustainable Development Goal (SDG) 1: No Poverty. Cash transfer (CT) programmes are considered one of the main social protection strategies and an instrument for achieving SDG 1. Targeting consists of establishing eligibility criteria for beneficiaries of CT programmes. In low-income countries, where resources are limited, proper targeting of CTs is essential for an eﬃcient use of resources. Given the growing importance of microinsurance as a complementary tool to social protection strategies, this study examines its role as a supplement to CT programmes. In this article, we adopt the piecewise-deterministic Markov process introduced in Kovacevic and Pflug (2011) to model the capital of a household, which when exposed to proportional capital losses (in contrast to the classical Cramér–Lundberg model) can push them into the poverty area. Striving for cost-eﬀective CT programmes, we optimise the expected discounted cost of keeping the household’s capital above the poverty line by means of injection of capital (as a direct capital transfer). Using dynamic programming techniques, we derive the Hamilton–Jacobi–Bellman (HJB) equation associated with the optimal control problem of determining the amount of capital to inject over time. We show that this equation admits a viscosity solution that can be approximated numerically. Moreover, in certain special cases, we obtain closed-form expressions for the solution. Numerical examples show that there is an optimal level of injection above the poverty threshold, suggesting that eﬃcient use of resources is achieved when CTs are preventive rather than reactive, since injecting capital into households when their capital levels are above the poverty line is less costly than to do so only when it falls below the threshold.
+Keywords: Cash transfers ; Microinsurance ; Proportional losses ; Optimal control ; HJB equations
+Note: In: Insurance Mathematics and Economics, 2026, vol. 130, 103287
+Length: 19
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026021
+Creation-Date: 2026-07-24
+DOI: https://doi.org/10.1016/j.insmatheco.2026.103287
+Handle: RePEc:aiz:louvar:2026021
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Mourahib, Anas
+Author-Name: Kiriliouk, Anna
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Segers, Johan
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Title: A penalized least-squares estimator for extreme-value models with multiple extreme directions
+Abstract: Estimating the parameters of max-stable parametric models poses significant challenges, particularly when some parameters lie on the boundary of the parameter space. This situation arises when a subset of variables exhibits extreme values simultaneously, while the remaining variables do not—a phenomenon commonly referred to as an extreme direction. A novel estimator is proposed for the parameters of a general parametric mixture model, incorporating a threshold exceedances approach based on a pseudo-norm penalization. The latter plays a crucial role in accurately identifying parameters at the boundary of the parameter space. Additionally, the estimator comes with a data-driven algorithm to detect groups of variables corresponding to extreme directions. The performance of the estimator is assessed in terms of both parameter estimation and the identification of extreme directions through extensive simulation studies. Finally, the method is applied to two real-world datasets: discharge measurements at stations along the Danube river, and financial portfolio losses from stocks listed on the NYSE, AMEX, and NASDAQ. In both applications, the sets of variables that can become large simultaneously are identified.
+Keywords: Extreme directions ; Max-linear model ; Penalized least-squares ; Stable tail dependence function ; Threshold exceedances
+Note: In: Computational Statistics & Data Analysis, 2027, vol. 225, 108460
+Length: 18
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026022
+Creation-Date: 2026-08-07
+DOI: https://doi.org/10.1016/j.csda.2026.108460
+Handle: RePEc:aiz:louvar:2026022
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Zuyderhoff, Pierre
+Author-Workplace-Name: University of Nottingham
+Author-Name: Denuit, Michel
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Trufin, Julien
+Author-Workplace-Name: Université Libre de Bruxelles
+Title: Simpson’s Paradox for Kendall’s Rank Coefficient
+Abstract: This note revisits Simpson’s paradox and discusses confounding effects of hidden covariates on Kendall’s tau. As a result, observed correlation may vanish or even revert. More specifically, a decomposition of Kendall’s tau in the presence of subgroups is established, a formal definition of Simpson’s paradox for Kendall’s tau is given and some simple examples of paradoxical situations in the insurance domain are provided. Finally, necessary and sufficient conditions for a Simpson’s paradox to occur are studied.
+Keywords: Kendall’s tau ; Covariates ; Simpson’s paradox
+Note: In: Methodology and Computing in Applied Probability, 2025, vol. 27, 29
+Length: 14
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026023
+Creation-Date: 2026-01-01
+DOI: https://doi.org/10.1007/s11009-025-10161-x
+Handle: RePEc:aiz:louvar:2026023
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Denuit, Michel
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Trufin, Julien
+Author-Workplace-Name: Université Libre de Bruxelles
+Title: Another Look at the Zero Integral Difference Between Lorenz and Concentration Curves in Supervised Learning
+Abstract: We revisit the area between the concentration and Lorenz curves (ABC) criterion for model assessment in supervised learning. Insurance pricing is considered throughout the paper to illustrate the concepts but the results apply to any other setting where the mean of a response must be estimated from data. Building on the characterization of these curves, we provide new equivalent formulations for the case where the ABC vanishes. First, we characterize a vanishing ABC as the absence of correlation between pricing error and the ranks induced by the candidate premiums, making the link with Gini and Co-Gini coefficients. In both the discrete and continuous cases, we then show that a vanishing ABC corresponds to global balance in transformed portfolios that overweight either lower or higher premium classes. These results complement existing work on auto-calibration and contribute to a better understanding of ABC as a diagnostic tool in insurance pricing and related applications.
+Keywords: Insurance pricing ; Lorenz curve ; Concentration curve ; Area between the curves
+Note: In: Methodology and Computing in Applied Probability, 2026, vol. 28, 42
+Length: 23
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026024
+Creation-Date: 2026-04-28
+DOI: https://doi.org/10.1007/s11009-026-10282-x
+Handle: RePEc:aiz:louvar:2026024
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Denuit, Michel
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Huyghe, Julie
+Author-Workplace-Name: Université Libre de Bruxelles
+Author-Name: Simon, Pierre-Alexandre
+Author-Workplace-Name: Université Libre de Bruxelles
+Author-Name: Trufin, Julien
+Author-Workplace-Name: Université Libre de Bruxelles
+Title: Tweedie dominance for autocalibrated predictors and Laplace transform order
+Abstract: While Krüger and Ziegel [(2021). Generic conditions for forecast dominance. Journal of Business & Economic Statistics, 39(4), 972–983.] defined forecast dominance, or Bregman dominance as dominance for every Bregman loss function, this paper explores Tweedie dominance proposed by  Denuit et al. [(2021). Autocalibration and Tweedie dominance for insurance pricing with machine learning. Insurance: Mathematics and Economics, 101, 485–497.] to compare competing candidate premiums. A necessary and sufficient condition is established under autocalibration. Moreover, Laplace transform order turns out to be a sufficient condition for Tweedie dominance between autocalibrated predictors. This shows that Tweedie dominance is a rather weak concept compared to Bregman dominance that reduces to the well-known convex order among autocalibrated predictors.
+Keywords: Insurance pricing ; tweedie distribution family ; autocalibrated models ; tweedie dominance ; Laplace transform order
+Note: In: Scandinavian Actuarial Journal, 2026, vol. 2026(6), p. 569-583
+Length: 15
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026025
+Creation-Date: 2026-01-01
+DOI: https://doi.org/10.1080/03461238.2025.2557295
+Handle: RePEc:aiz:louvar:2026025
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Héritier, Harris
+Author-Name: Allémann, Chloé
+Author-Name: Balakiriev, Oleksandr
+Author-Name: Boulanger, Victor
+Author-Name: Carroll, Sean F.
+Author-Name: Symul, Laura
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: , e.a.
+Title: Food & You: A digital cohort on personalized nutrition
+Abstract: Nutrition is a key contributor to health. Recently, several studies have identified associations between factors such as microbiota composition and health-related responses to dietary intake, raising the potential of personalized nutritional recommendations. To further our understanding of personalized nutrition, detailed individual data must be collected from participants in their day-to-day lives. However, this is challenging in conventional studies that require clinical measurements and site visits. So-called digital or remote cohorts allow in situ data collection on a daily basis through mobile applications, online services, and wearable sensors, but they raise questions about study retention and data quality. “Food & You” is a personalized nutrition study implemented as a digital cohort in which participants track food intake, physical activity, gut microbiota, glycemia, and other data for two to four weeks. Here, we describe the study protocol, report on study completion rates, and describe the collected data, focusing on assessing their quality and reliability. Overall, the study collected data from over 1000 participants, including high-resolution data of nutritional intake of more than 46 million kcal collected from 315,126 dishes over 23,335 participant days, 1,470,030 blood glucose measurements, 49,110 survey responses, and 1,024 stool samples for gut microbiota analysis. Retention was high, with over 60% of the enrolled participants completing the study. Various data quality assessment efforts suggest the captured high-resolution nutritional data accurately reflect individual diet patterns, paving the way for digital cohorts as a typical study design for personalized nutrition.
+Note: In: PLOS Digital Health, 2023
+Length: 20
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026026
+Creation-Date: 2026-01-01
+DOI: https://doi.org/10.1371/journal.pdig.0000389
+Handle: RePEc:aiz:louvar:2026026
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Costello, Elizabeth K.
+Author-Name: DiGiulio, Daniel B.
+Author-Name: Robaczewska, Anna
+Author-Name: Symul, Laura
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: , e.a.
+Title: Abrupt perturbation and delayed recovery of the vaginal ecosystem following childbirth
+Abstract: The vaginal ecosystem is closely tied to human health and reproductive outcomes, yet its dynamics in the wake of childbirth remain poorly characterized. Here, we profile the vaginal microbiota and cytokine milieu of participants sampled longitudinally throughout pregnancy and for at least one year postpartum. We show that delivery, regardless of mode, is associated with a vaginal pro-inflammatory cytokine response and the loss of Lactobacillus dominance. By contrast, neither the progression of gestation nor the approach of labor strongly altered the vaginal ecosystem. At 9.5-months postpartum—the latest timepoint at which cytokines were assessed—elevated inflammation coincided with vaginal bacterial communities that had remained perturbed (highly diverse) from the time of delivery. Time-to-event analysis indicated a one-year postpartum probability of transitioning to Lactobacillus dominance of 49.4%. As diversity and inflammation declined during the postpartum period, dominance by L. crispatus, the quintessential health-associated commensal, failed to return: its prevalence before, immediately after, and one year after delivery was 41%, 4%, and 9%, respectively. Revisiting our pre-delivery data, we found that a prior live birth was associated with a lower odds of L. crispatus dominance in pregnant participants—an outcome modestly tempered by a longer ( > 18-month) interpregnancy interval. Our results suggest that reproductive history and childbirth in particular remodel the vaginal ecosystem and that the timing and degree of recovery from delivery may help determine the subsequent health of the woman and of future pregnancies.
+Note: In: Nature Communications, 2023, vol. 14, 4141
+Length: 16
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026027
+Creation-Date: 2026-07-12
+DOI: https://doi.org/10.1038/s41467-023-39849-9
+Handle: RePEc:aiz:louvar:2026027
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Chetty, Callin
+Author-Name: Mafunda, Nomfuneko
+Author-Name: Happel, Anna-Ursula
+Author-Name: Symul, Laura
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: , e.a.
+Title: Randomized trial of multi-strain Lactobacillus crispatus vaginal live biotherapeutic products after antibiotic therapy for bacterial vaginosis: study protocol for VIBRANT (vaginal lIve biotherapeutic RANdomized trial)
+Abstract: Background : Globally, approximately 30 % of women have bacterial vaginosis (BV). Antibiotic treatment is frequently followed by recurrence, likely due to lack of colonization with beneficial lactobacilli.
+Methods : This is a Phase 1, randomized, placebo-controlled trial of vaginal live biotherapeutic products (LBP) after antibiotic treatment for BV to establish Lactobacillus colonization. The LBP are vaginal tablets containing 6 L. crispatus strains (LC106) or 15 L. crispatus strains (LC115), at 2 x 109 colony forming units (CFU) per dose. Participants with BV in the United States and South Africa will receive seven days of oral metronidazole twice daily and will be randomized 1:1:1:1:1 to: seven days placebo; seven days LC106; three days LC106/four days placebo; seven days LC106 starting day 3 of the metronidazole course; or seven days LC115. Safety will be assessed by the number and percentage of ≥ Grade 2 related adverse events during or after product use. The primary outcome is LBP colonization defined as relative abundance ≥5 % of any LBP strain or ≥10 % of a combination of LBP strains by metagenomic sequencing any time in the 5 weeks after randomization. A generalized linear model will measure the association between treatment group and colonization, adjusting for site.
+Conclusions : This study seeks to establish proof of concept for a multi-strain LBP to promote vaginal L. crispatus colonization in two geographically distinct populations.
+Keywords: Bacterial vaginosis ; Live biotherapeutic product ; Vaginal health ; Women's health ; Lactobacillus crispatus ; Vaginal microbiome
+Note: In: Contemporary Clinical Trials Communications, 2025, vol. 48, 101554
+Length: 7
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026028
+Creation-Date: 2026-01-01
+DOI: https://doi.org/10.1016/j.conctc.2025.101554
+Handle: RePEc:aiz:louvar:2026028
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Bloom, Seth M.
+Author-Name: Symul, Laura
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Elsherbin, Joseph
+Author-Name: Xu, Jiawu
+Author-Name: Hussain, Salina
+Author-Name: , e.a.
+Title: Vaginal microbiota impacts of a Lactobacillus crispatus live biotherapeutic and predictors of colonization in randomized controlled trial
+Abstract: Bacterial vaginosis (BV) affects >25% of women worldwide and often recurs after standard-of-care metronidazole (MTZ) treatment. LACTIN-V, a live biotherapeutic product (LBP) containing Lactobacillus crispatus strain CTV-05, significantly reduced recurrent BV in a phase 2b clinical trial, but efficacy was incomplete. Here, we characterize microbiota and immune effects using multi-omics and define correlates of treatment success. By week 12, an L. crispatus-dominant microbiota was achieved in 30% of LBP recipients compared with 9% of placebo recipients (benefit ratio: 3.31; p < 0.005). This is primarily due to CTV-05, but native L. crispatus strains are also present and increase over time. Inflammatory cytokines decrease in both arms after MTZ but return to baseline in placebo recipients. Successful L. crispatus colonization is associated with pre-MTZ microbiota, baseline inflammatory profiles, post-MTZ bacterial load, and clinical and behavioral variables. These findings elucidate LBP microbiota effects and identify predictors of treatment success, informing improved intervention strategies to advance women’s health.
+Keywords: Vaginal microbiome ; live biotherapeutic product ; bacterial vaginosis ; women’s health ; Lactobacillus
+Note: In: Cell Host & Microbe, vol. 34(4), p. 734-750
+Length: 28
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026029
+Creation-Date: 2026-04-08
+DOI: https://doi.org/10.1016/j.chom.2026.03.003
+Handle: RePEc:aiz:louvar:2026029
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Potloane, Disebo
+Author-Name: Symul, Laura
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Ngcapu, Sinaye
+Author-Name: Lewis, Lara
+Author-Name: France, Michael
+Author-Name: , e.a.
+Title: VIBRANT: A phase 1 randomized trial of multi-strain vaginal L. crispatus live biotherapeutic products in people with bacterial vaginosis
+Abstract: Bacterial vaginosis (BV) is characterized by high microbial diversity. High recurrence rates following antibiotics may stem from poor recolonization by protective Lactobacillus species. This phase 1 randomized trial in the United States and South Africa evaluated two vaginally delivered live biotherapeutic products (LBPs) containing multiple Lactobacillus crispatus strains. After metronidazole treatment for BV, participants received either a placebo or 3 or 7 days of active LBPs. LBP strains were detected by metagenomics in 66.1% (47/71) of participants in the active arms in the first 5 weeks. Among those, nearly half (49%, 23/47) remained colonized at 12 weeks despite the short initial treatment course. Participants were most often colonized by one of three component strains, with no geographic differences in strain colonization observed. LBPs were safe, acceptable, and well tolerated, with no serious adverse events (AEs) reported. These results provide a foundation for the development of transformational interventions aimed at optimizing the vaginal microbiome.
+Keywords: Lactobacillus crispatus ; bacterial vaginosis ; live biotherapeutic product ; vaginal microbiome ; Lactobacillus ; probiotic
+Note: In: Cell Host & Microbe, vol. 34(4), p. 751-760
+Length: 16
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026030
+Creation-Date: 2026-04-08
+DOI: https://doi.org/10.1016/j.chom.2026.02.016
+Handle: RePEc:aiz:louvar:2026030
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Zhu, Meilin
+Author-Name: Mtshali, Andile
+Author-Name: Mzobe, Gugulethu
+Author-Name: Magini, Nzuzo
+Author-Name: Symul, Laura
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: , e.a.
+Title: Geographic Variation in Diagnostic Performance of Amsel Criteria and Nugent Score for Vaginal Dysbiosis Defined by 16S rRNA Gene Sequencing
+Abstract: Background : Vaginal dysbiosis characterized by low abundance of vaginal lactobacilli and increased bacterial community diversity, is implicated in multiple adverse health outcomes and is an emerging target for preventive interventions, including live biotherapeutic products. The most common clinical presentation of vaginal dysbiosis is bacterial vaginosis (BV), but at least half of people are asymptomatic.
+Methods : We compared identification of BV by Nugent score and Amsel criteria for screening specimens from a Phase 1b randomized trial of a live biotherapeutic product conducted at 2 sites (CAPRISA, South Africa; MGH, USA), as well as a single follow-up visit from enrolled participants. Using 16S rRNA gene sequencing-based categorization of community state type (CST) as the reference and multinomial mixed-effects logistic models, we evaluated the association of Amsel BV and Nugent BV with CST IV (including subtypes IV-A and IV-B) and tested for site-specific effects.
+Results : Amsel BV was significantly associated with CST IV-A and IV-B; however, the strength of association was significantly diminished at CAPRISA compared with MGH, pointing to site-specific assessment differences or underlying biological variation. Nugent BV yielded stronger associations with CST IV-A, and IV-B and showed no evidence of a site-specific interaction, indicating consistent performance across sites.
+Conclusions : These findings indicate that diagnostic performance for vaginal dysbiosis varies by framework: Amsel criteria are more susceptible to geographical site effects, whereas Nugent score demonstrates stronger and more site-agnostic associations. For clinical studies targeting vaginal dysbiosis, Nugent scoring and/or sequencing-based approaches should be prioritized for vaginal dysbiosis endpoint definition and stratification.
+Keywords: Bacterial vaginosis ; vaginal dysbiosis ; Nugent score ; Amsel criteria ; vaginal microbiome
+Note: In: The Journal of Infectious Diseases, 2026, jiag399
+Length: 11
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026031
+Creation-Date: 2026-08-11
+DOI: https://doi.org/10.1093/infdis/jiag399
+Handle: RePEc:aiz:louvar:2026031
+
