@@ -8718,3 +8718,19 @@ Number: 2026031
 Creation-Date: 2026-08-25
 Handle: RePEc:aiz:louvad:2026031
 
+Template-Type: ReDIF-Paper 1.0
+Author-Name: D’haegeleer, Thaddée
+Author-Email: thaddee.dhaegeleer@uclouvain.be
+Author-Name: Heuchenne, Cédric
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Author-Name: Soetewey, Antoine
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/ISBA, Belgium
+Title: Partial Association Explorer: Comparing Marginal and Conditional Dependence Structures in Mixed Social-Science Data
+Abstract: Partial Association Explorer is an open-source R (R Core Team, 2025) shiny (Chang et al., 2025) application for exploratory association analysis in mixed-type social-science datasets. Many applied researchers work with data combining survey items, socio-demographic variables, behavioral indicators, and plausible confounders. Standard correlation matrices are limited to numerical variables, while marginal association summaries can be misleading when variables are jointly related to background factors such as age, education, or region. Partial Association Explorer addresses this problem by computing pairwise association measures, significance tests, and local pair diagnostics for numerical–numerical, numerical–categorical, and categorical–categorical variable pairs. Its central feature is the comparison of unconditional and conditional association networks: users can add control variables and immediately identify associations that persist after adjustment, disappear as likely confounded links, or emerge only once a masking variable is accounted for. The application combines filtered interactive networks, pair plots adapted to each variable type, exportable summaries, and likelihood-based diagnostics for categorical pairs. We describe the statistical framework implemented in the software and illustrate the workflow using Belgian data from the European Social Survey.
+Keywords: R ; shiny ; exploratory data analysis ; mixed-type data ; conditional association ; association networks ; survey data ; confounding
+Length: 26
+Series: UCLouvain, LIDAM, ISBA
+Number: 2026032
+Creation-Date: 2026-09-15
+Handle: RePEc:aiz:louvad:2026032
+
