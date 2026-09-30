@@ -32571,6 +32571,25 @@ DOI: https://doi.org/10.4000/cybergeo.36950
 Handle: RePEc:cor:louvrp:3164
 
 Template-Type: ReDIF-Paper 1.0
+Author-Name: Ellemund, Gabriel
+Author-Name: Hübner, Thomas
+Author-Name: Lété, Quentin
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/CORE, Belgium
+Author-Name: Bracco, Stefano
+Author-Name: Fresia, Matteo
+Author-Name: Hug, Gabriela
+Title: Bidding Aggregated Flexibility in European Electricity Auctions
+Abstract: Bidding flexibility in day-ahead and intraday auctions would enable decentralized flexible resources, such as electric vehicles and heat pumps, to efficiently align their consumption with the intermittent generation of renewable energy. However, because these resources are individually too small to participate in those auctions directly, an aggregator (e.g., a utility) must act on their behalf. This requires aggregating many decentralized resources, which is a computationally challenging task. In this paper, we propose a computationally efficient and highly accurate method that is readily applicable to European day-ahead and intraday auctions. Distinct from existing methods, we aggregate only economically relevant power profiles, identified through price forecasts. The resulting flexibility is then conveyed to the market operator via exclusive groups of block bids. We evaluate our method for a utility serving the Swiss town of Losone, where flexibility from multiple heat pumps distributed across the grid must be aggregated and bid in the Swiss day-ahead auction. Results show that our method aggregates accurately, achieving 98% of the theoretically possible cost savings. This aggregation accuracy remains stable even as the number of heat pumps increases, while computation time grows only linearly, demonstrating strong scalability.
+Keywords: Demand-Side Management ; Flexibility Aggregation ; Power Markets ; Bidding ; Distribution Grids ; Heat Pumps
+Note: In: IEEE Transactions on Energy Markets, Policy and Regulation, 2026, vol. 4(3), p. 461-471
+Length: 10
+Series: UCLouvain, LIDAM, CORE
+Number: 3164
+Creation-Date: 2026-09-15
+DOI: https://doi.org/10.1109/TEMPR.2026.3714683
+Handle: RePEc:cor:louvrp:3164
+
+Template-Type: ReDIF-Paper 1.0
 Author-Name: Hautecoeur, Cécile
 Author-Workplace-Name: Université catholique de Louvain
 Author-Name: Glineur, François
@@ -35899,4 +35918,19 @@ Number: 3362
 Creation-Date: 2026-05-26
 DOI: https://doi.org/10.1093/oso/9780197824696.003.0001
 Handle: RePEc:cor:louvrp:3362
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Pestieau, Pierre
+Author-Workplace-Name: Université catholique de Louvain, LIDAM/CORE, Belgium
+Title: The Economics of Long-term Care
+Abstract: As the need for long-term care expands, evaluating the roles of its primary providers—the state, the market, and the family—becomes increasingly essential. This book first examines recent research on the contributions of families and the marketplace to long-term care. Noting the decreasing involvement of families and the limitations of market-based solutions, it then shifts focus to studies that explore public policy development aimed at supporting elderly individuals without family assistance or adequate resources. These policies aim to create a comprehensive support system by utilizing both market mechanisms and family resources to meet the needs of the dependent elderly.
+The book also provides a comparative analysis of how various countries, especially in Europe and North America, address disability and dependence in their long-term care systems, offering insights into diverse strategies and solutions. This cross-country perspective identifies effective practices and highlights areas requiring further development in social insurance and support frameworks. Through this exploration, the book seeks to deepen understanding of the influence of social norms and family solidarity on long-term care provision, emphasizing how these elements can be integrated into more resilient public policy structures.
+Keywords: Health Economics ; Public Economics ; Health Policy ; Health Care Management
+Note: Springer, 2026. - ISBN 9783032182364
+Length: 103
+Series: UCLouvain, LIDAM, CORE
+Number: 3363
+Creation-Date: 2026-05-21
+DOI: https://doi.org/10.1007/978-3-032-18237-1
+Handle: RePEc:cor:louvrp:3363
 
