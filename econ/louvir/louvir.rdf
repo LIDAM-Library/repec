@@ -16128,3 +16128,35 @@ File-URL: https://sites.uclouvain.be/econ/DP/IRES/2026014.pdf
 File-Format: application/pdf
 Handle: RePEc:ctl:louvir:2026014
 
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Kevin Pineda-Hernández
+Author-Workplace-Name: ULB (CEBRIG, DULBEA), UMONS (Soci&ter)
+Author-Name: François Rycx
+Author-Workplace-Name: ULB (CEBRIG, DULBEA), UMONS (Soci&ter), UCLouvain (IRES), GLO and IZA@LISER
+Author-Name: Mélanie Volral
+Author-Workplace-Name: UMONS (Soci&ter), ULB (CEBRIG, DULBEA)
+Title: Immigrant-Native Wage Gaps and Rent Sharing: A Segmented Assimilation Story?
+Abstract: Although an increasing body of literature has examined the relationship between firms’ profitability and wage inequality in the context of a diverse workforce, the role of rent sharing in explaining origin-based wage differentials has yet to be explored. Our paper aims to fill this gap using detailed Belgian matched employer-employee data from 1999 to 2016. After controlling for a wide range of covariates and addressing endogeneity issues, our estimates show that the wage-profit elasticity equals approximately 3% and does not differ statistically between native and immigrant workers, be they first or second generation. It therefore appears that firms share their profits equally with their employees, regardless of their origin. However, Oaxaca-Blinder decompositions suggest that rent sharing has a significant influence on immigrants’ wages through labour market segregation. Specifically, first-generation immigrants are found to earn lower wages than natives because of their higher concentration in firms with lower profit margins. The same is true for second-generation immigrants, but almost half as much. These findings, corroborated and refined by heterogeneity tests according to gender, educational attainment and level of collective bargaining, support the hypothesis of a segmented assimilation process for immigrants.
+Classification-JEL: C26, J15, J16, J31, J61
+Keywords: Rent sharing, natives, first- and second-generation immigrants, matched employer-employee data, wage decompositions, instrumental variables
+Series: UCLouvain, LIDAM, IRES
+Number: 2026015
+Creation-Date: 2026-09-29
+File-URL: https://sites.uclouvain.be/econ/DP/IRES/2026015.pdf
+File-Format: application/pdf
+Handle: RePEc:ctl:louvir:2026015
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Jing-Rong Zeng 
+Author-Workplace-Name: Paris School of Economics
+Title: In Search of Lost Peace: The Local Effects of Peacekeepers on Conflict Dynamics in Africa
+Abstract: Can international peacekeeping produce durable peace? I study United Nations peacekeeping deployments across Africa from 1994 to 2020 using a geocoded panel of peacekeeper locations and conflict events. Because local deployment is non-absorbing and varies over time, I use difference-in-differences estimators that accommodate heterogeneous treatment effects and changes in treatment status. Peacekeeper deployment is followed by a large and persistent decline in the probability of local conflict. By contrast, conflict-related fatalities decline initially but increase at longer horizons, revealing a divergence between the incidence and severity of violence. The longer-run increase in fatalities is concentrated in state-based conflict, while the initial decline is more pronounced for one-sided violence. I find limited evidence of sustained improvements in nighttime lights. Complementary evidence from MONUSCO’s 2013 offensive mandate in the Democratic Republic of the Congo shows lower total and non-civilian-targeted fatalities in locations with peacekeeper bases. The findings show that the effects of peacekeeping differ across dimensions of violence and evolve substantially over time.
+Classification-JEL: C23, D74, F53
+Keywords: Peacekeeping, Conflict Resolution, Nighttime Lights, Event Study, Dynamic Treatment Effects
+Series: UCLouvain, LIDAM, IRES
+Number: 2026016
+Creation-Date: 2026-09-01
+File-URL: https://sites.uclouvain.be/econ/DP/IRES/2026016.pdf
+File-Format: application/pdf
+Handle: RePEc:ctl:louvir:2026016
+
