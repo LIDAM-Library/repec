@@ -16198,3 +16198,35 @@ File-URL: https://sites.uclouvain.be/econ/DP/IRES/2026018.pdf
 File-Format: application/pdf
 Handle: RePEc:ctl:louvir:2026018
 
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Roberto Mauricio Sanchez-Torres
+Author-Workplace-Name: UNIVERSITE CATHOLIQUE DE LOUVAIN, Institut de Recherches Economiques et Sociales (IRES)
+Title: Multidimensional poverty measurement without missing poor bias
+Abstract: Lifespan is strongly shaped by standard of living. When premature mortality disproportionately affects the poor, conventional poverty measurements are likely to be underestimated, since they only account for the living, among whom poor groups are systematically underrepresented. The missing poor refers to individuals who died prematurely and who, had they survived, would have been counted among the poor. This research revisits the missing poor framework within the context of multidimensional poverty measurement, a particularly important extension given that mortality inequality has gradients beyond income alone. The objective of this study is to identify and assess the missing poor bias and its relationship with poverty as measured multidimensionally. It is shown that the missing poor bias is driven by differences in the survival probabilities of population subgroups, as well as by the weights assigned to each dimension in the poverty index. Empirical evidence from Cambodia, El Salvador and Zambia illustrates these theoretical findings, demonstrating that mortality inequality plays a crucial role in multidimensional poverty measurement, and that the missing poor bias is substantially larger in countries where mortality rates and their inequality are higher.
+Classification-JEL: I14, I32
+Keywords: mortality paradox, multidimensional poverty, poverty measurement, premature mortality, selection biases
+Series: UCLouvain, LIDAM, IRES
+Number: 2026019
+Creation-Date: 2026-10-09
+File-URL: https://sites.uclouvain.be/econ/DP/IRES/2026019.pdf
+File-Format: application/pdf
+Handle: RePEc:ctl:louvir:2026019
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Patrick Arni
+Author-Workplace-Name: ZHAW School of Management and Law
+Author-Name: Bart Cockx
+Author-Workplace-Name: Ghent University
+Author-Name: Andrey Launov
+Author-Workplace-Name: University of Kent
+Title: Biased Beliefs, Job Search, and Welfare: A Structural Analysis of Coaching and Counseling
+Abstract: How do unemployed workers form beliefs about their labor-market prospects, and how do these beliefs affect behavior, policy effectiveness, and welfare? We develop and estimate a structural job-search model with quasi-Bayesian updating, combining Swiss panel data on beliefs and job-search behavior with a randomized counseling-and-coaching intervention. Job seekers enter unemployment with overly optimistic beliefs about interview arrivals, but gradually become pessimistic as past signals fade from memory. The estimated updating process combines features consistent with both motivated beliefs and recency-weighted information processing. The model replicates the observed dynamics of applications, interviews, wages, and job finding, while decomposing treatment effects into changes in search efficiency, search costs, and beliefs. We find that belief formation is the principal channel through which the intervention accelerates transitions into employment. However, despite increasing job finding, the intervention reduces participant welfare because it operates primarily through lower reservation wages.
+Classification-JEL: C41, C51, C93, D04, D83, J64, J68
+Keywords: Job search, biased beliefs, expectations, quasi-Bayesian learning, randomized control trial, structural econometric estimation, evaluation, active labor market policies
+Series: UCLouvain, LIDAM, IRES
+Number: 2026020
+Creation-Date: 2026-10-26
+File-URL: https://sites.uclouvain.be/econ/DP/IRES/2026020.pdf
+File-Format: application/pdf
+Handle: RePEc:ctl:louvir:2026020
+
